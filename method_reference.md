@@ -17,7 +17,7 @@
 * [manual-g](https://github.com/simon-anders/htseq)
 * [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4287950/)
 
-## cufflink [Q]
+## Cufflink [Q]
 * [manual](http://cole-trapnell-lab.github.io/cufflinks/manual/)
 * [manual-g](https://github.com/cole-trapnell-lab/cufflinks)
 * [article](https://www.nature.com/articles/nprot.2012.016)
@@ -35,26 +35,26 @@
 * [manual-g](https://github.com/gpertea/stringtie)
 * [article](https://www.nature.com/articles/nprot.2016.095) **HISAT, StringTie and Ballgown**
 
-# pseudo-alignment
-## sailfish
+# Pseudo-alignment
+## Sailfish
 * [manual](http://www.cs.cmu.edu/~ckingsf/software/sailfish/)
 * [article](https://www.nature.com/articles/nbt.2862)
 
-## salmon
+## Salmon
 * [manual](http://combine-lab.github.io/salmon/)
 * [manual-g](https://combine-lab.github.io/salmon/)
 * [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600148/)
 
-## kalisto
+## Kalisto
 * [manual](https://pachterlab.github.io/kallisto/)
 * [article](https://www.nature.com/articles/nbt.3519)
 
-# data-source
+# Data-source
 * [Patel](http://science.sciencemag.org/content/344/6190/1396)
 * [smart-seq](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467340/)
 * [mice-comparison](https://www.cell.com/molecular-cell/abstract/S1097-2765(17)30049-7)
 
-# accessment
+# Accessment
 * [Gaining comprehensive biological insight into the transcriptome by performing a broad-spectrum RNA-seq analysis](https://www.nature.com/articles/s41467-017-00050-4)
 
 
