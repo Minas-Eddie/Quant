@@ -13,7 +13,7 @@
 * [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655817/)
 
 ## HT-seq [Q]
-* [manual](https://htseq.readthedocs.io/en/release_0.9.1/)
+* [manual](http://htseq.readthedocs.io/en/release_0.9.1/count.html)
 * [manual-g](https://github.com/simon-anders/htseq)
 * [article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4287950/)
 
