@@ -35,6 +35,10 @@
 * [manual-g](https://github.com/gpertea/stringtie)
 * [article](https://www.nature.com/articles/nprot.2016.095) **HISAT, StringTie and Ballgown**
 
+## rpkmforgenes [Q]
+* [manual](http://sandberg.cmb.ki.se/media/data/rnaseq/instructions-rpkmforgenes.html)
+* [article](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000598)
+
 # Pseudo-alignment
 ## Sailfish
 * [manual](http://www.cs.cmu.edu/~ckingsf/software/sailfish/)
